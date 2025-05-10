@@ -102,8 +102,10 @@ print(plan)
 ```
 
 ## Output:
-<image src="image.png">
-<image src="image-1.png">
+![image](https://github.com/user-attachments/assets/8f0113b5-b6d1-42c0-944d-906ccb07bc0f)
+
+![image](https://github.com/user-attachments/assets/ad24882c-a54c-495d-8e24-02fa1afdbea2)
+
 
 # Result:
 Thus Program for Implementation of Classical Planning Algorithm was executed Successfully.
